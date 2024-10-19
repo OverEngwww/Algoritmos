@@ -1,5 +1,5 @@
 
-# Repositorio de base para Página Web
+# Repositorio de base para Página Web JavaScript
 
 Este repositorio contiene archivos HTML, CSS y JavasScript que te servirán de base para poder realizar tu proyecto de JavaScript con operaciones dicacticas para practicar en una página web. Las secciones incluidas son "Algoritmos con JavaScript".
 
