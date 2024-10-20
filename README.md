@@ -20,7 +20,7 @@ Este repositorio contiene archivos HTML, CSS y JavasScript que te servirán de b
 -   Funcion consultarPeli: Llama a la funcion de JS encargada de consultar Info Peliculas si un Numero es Primo con la base estructural para el boton de "Info Peliculas".
 ## Instrucciones de Uso
 
-Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://github.com/OverEngwww/Algoritmos.git en tu consola
+Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://github.com/OverEngwww/Algoritmos.git en tu consola o si deseas visualizar el website ingresa en el link https://overengwww.github.io/Algoritmos/
 
 ## Contribuciones
 
